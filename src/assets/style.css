@@ -20,3 +20,32 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.blue{
+  color: #003274;
+  font-size: 50px;
+}
+
+.aiu{
+  background-color: aquamarine;
+}
+
+.redColor {
+  color: '#003274';
+} 
+
+.blueColor{
+  color: '#003274';
+} 
+
+.grayColor{
+  color: '#E0E0DF';
+} 
+
+.blackColor{
+  color: '#171716';
+} 
+
+.whiteColor{
+  color: '#ffffff';
+} 
