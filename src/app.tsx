@@ -2244,7 +2244,69 @@ async function addSticky3() {
   
   };
   
+async function addSticky10() {
+  
+  const image1 = await miro.board.createImage({
+    title: 'This is an image',
+    url: 'https://i.pinimg.com/736x/4a/72/ac/4a72aceb9dc95391603818ddfece4715.jpg',
+    x: 1900, // Default value: horizontal center of the board
+    y: -3500, // Default value: vertical center of the board
+    width: 4400, // Set either 'width', or 'height'
+    rotation: 0.0,
+  });
+  
+  // Output the created item to the developer console
+  console.log(image1);
 
+  const image2 = await miro.board.createImage({
+    title: 'This is an image',
+    url: 'https://i.pinimg.com/736x/67/42/01/674201e828a7e831f6b16b1029273a50.jpg',
+    x: 1900, // Default value: horizontal center of the board
+    y: -7000, // Default value: vertical center of the board
+    width: 4400, // Set either 'width', or 'height'
+    rotation: 0.0,
+  });
+  
+  // Output the created item to the developer console
+  console.log(image2);
+
+  const image3 = await miro.board.createImage({
+    title: 'This is an image',
+    url: 'https://i.pinimg.com/474x/34/83/3d/34833dcfdfecd7b80b91e54fbfc49b16.jpg',
+    x: 8000, // Default value: horizontal center of the board
+    y: -7000, // Default value: vertical center of the board
+    width: 7000, // Set either 'width', or 'height'
+    rotation: 0.0,
+  });
+  
+  // Output the created item to the developer console
+  console.log(image3);
+
+  const image4 = await miro.board.createImage({
+    title: 'This is an image',
+    url: 'https://i.pinimg.com/736x/ac/52/1d/ac521d19db03c539de7634ddeb9267aa.jpg',
+    x: 1900, // Default value: horizontal center of the board
+    y: -10500, // Default value: vertical center of the board
+    width: 4400, // Set either 'width', or 'height'
+    rotation: 0.0,
+  });
+  
+  // Output the created item to the developer console
+  console.log(image4);
+
+  const image5 = await miro.board.createImage({
+    title: 'This is an image',
+    url: 'https://i.pinimg.com/474x/9e/84/11/9e8411cf8e4d9e0990fb661b623f6a56.jpg',
+    x: 24000, // Default value: horizontal center of the board
+    y: 24000, // Default value: vertical center of the board
+    width: 25000, // Set either 'width', or 'height'
+    rotation: 0.0,
+  });
+  
+  // Output the created item to the developer console
+  console.log(image5);
+
+};
 const App: React.FC = () => {
   React.useEffect(() => {
     
@@ -2256,12 +2318,9 @@ const App: React.FC = () => {
         <img src="/src/assets/BLUE59結果.png" alt="" />
       </div>
       <div className="cs1 ce12">
-        <h1 className='blackColor'>Phaseを選択してください</h1>
-        <p className='aiu'>You've just created your first Miro app!</p>
-        <p className='aiu'>
-          To explore more and build your own app, see the Miro Developer
-          Platform documentation.
-        </p>
+        <h1 className='blackColor'
+        aria-setsize={40}>Phaseを選択してください</h1>
+        
       </div>
       <div className="cs1 ce12">
         <a
@@ -2287,6 +2346,14 @@ const App: React.FC = () => {
           onClick={addSticky3}
         >
           Phase3
+        </a>
+        <a
+          className="button button-primary"
+          // target="_blank"
+          // href="https://developers.miro.com"
+          onClick={addSticky10}
+        >
+          演習のセットアップ
         </a>
       </div>
     </div>
