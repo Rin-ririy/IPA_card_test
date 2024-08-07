@@ -2112,7 +2112,7 @@ async function addSticky3() {
   
     const image52 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/98/99/bb/9899bb5f96345094c7b3f05a15441969.jpg',
+      url: 'https://i.pinimg.com/474x/d6/a9/2f/d6a92f5b87d06785f91de6a09a287edd.jpg',
       x: 900, // Default value: horizontal center of the board
       y: 6500, // Default value: vertical center of the board
       width: 800, // Set either 'width', or 'height'
@@ -2306,7 +2306,12 @@ async function addSticky10() {
   // Output the created item to the developer console
   console.log(image5);
 
-};
+  };
+
+async function addSticky11() {
+
+  
+}
 const App: React.FC = () => {
   React.useEffect(() => {
     
@@ -2346,6 +2351,22 @@ const App: React.FC = () => {
           onClick={addSticky3}
         >
           Phase3
+        </a>
+        <a
+          className="button button-primary"
+          // target="_blank"
+          // href="https://developers.miro.com"
+          onClick={addSticky10}
+        >
+          演習のセットアップ
+        </a>
+        <a
+          className="button button-primary"
+          // target="_blank"
+          // href="https://developers.miro.com"
+          onClick={addSticky11}
+        >
+          議論メモを作成
         </a>
         <a
           className="button button-primary"
