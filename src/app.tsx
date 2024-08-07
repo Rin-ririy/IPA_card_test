@@ -3,6 +3,10 @@ import {createRoot} from 'react-dom/client';
 
 import '../src/assets/style.css';
 
+const viewport = await miro.board.viewport.get();
+const centerX = viewport.x + viewport.width / 2;
+const centerY = viewport.y + viewport.height / 2;
+
 
 async function addSticky1() {
   const image = await miro.board.createImage({
@@ -2310,6 +2314,21 @@ async function addSticky10() {
 
 async function addSticky11() {
 
+  const stickyNote = await miro.board.createStickyNote({
+    content: '<p></p>',
+    style: {
+      fillColor: 'light_yellow', // Default value: light yellow
+      textAlign: 'center', // Default alignment: center
+      textAlignVertical: 'middle', // Default alignment: middle
+    },
+    x: centerX, // Default value: horizontal center of the board
+    y: centerY, // Default value: vertical center of the board
+    shape: 'square',
+    width: 200, // Set either 'width', or 'height'
+  });
+  
+  // Output the created item to the developer console
+  console.log(stickyNote); 
   
 }
 const App: React.FC = () => {
@@ -2368,14 +2387,7 @@ const App: React.FC = () => {
         >
           議論メモを作成
         </a>
-        <a
-          className="button button-primary"
-          // target="_blank"
-          // href="https://developers.miro.com"
-          onClick={addSticky10}
-        >
-          演習のセットアップ
-        </a>
+        
       </div>
     </div>
   );
