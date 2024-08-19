@@ -3454,7 +3454,7 @@ async function addSticky13() {
   
     const image01010 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/44/b3/b5/44b3b5eecb68a50cf2805afe42002e3d.jpg',
+      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
       x: 144000, // Default value: horizontal center of the board
       y: 49500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
