@@ -59,7 +59,7 @@ async function addSticky1() {
     title: 'This is an image',
     url: 'https://i.pinimg.com/474x/44/f8/f6/44f8f631e139b27c2450e941b094cd03.jpg',
     x: 15000, // Default value: horizontal center of the board
-    y: 0, // Default value: vertical center of the board
+    y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
