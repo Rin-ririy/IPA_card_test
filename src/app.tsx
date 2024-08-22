@@ -1475,9 +1475,9 @@ async function addSticky12() {
 
   const image001 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/de/1b/30/de1b30147f51f7f0a397762eb9038b4b.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 0, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/44/f8/f6/44f8f631e139b27c2450e941b094cd03.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1487,9 +1487,9 @@ async function addSticky12() {
 
   const image002 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/a7/68/99/a768998ca4fc5152f26bd817b326ebc8.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 0, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/bc/1b/7bbc1bdb14be7f9501716129375ee86a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1499,9 +1499,9 @@ async function addSticky12() {
 
   const image003 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/dc/75/ef/dc75efb852463c1238068b0c48caacd7.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 0, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/46/38/83/463883dc1c289964949420671bfffdca.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1511,9 +1511,9 @@ async function addSticky12() {
 
   const image004 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/eb/48/46/eb48469cb10f8e38593e3c5f928f89ef.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 0, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/fc/0e/df/fc0edf660e9a80347238bec1d7827d9d.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1523,9 +1523,9 @@ async function addSticky12() {
 
   const image005 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/3f/16/5b/3f165b34e33c93354a03940a4778d4d7.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 0, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1536,8 +1536,8 @@ async function addSticky12() {
   const image006 = await miro.board.createImage({
     title: 'This is an image',
     url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 5500, // Default value: vertical center of the board
+    x: 65000, // Default value: horizontal center of the board
+    y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1547,9 +1547,9 @@ async function addSticky12() {
 
   const image007 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 5500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1560,8 +1560,8 @@ async function addSticky12() {
   const image008 = await miro.board.createImage({
     title: 'This is an image',
     url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 5500, // Default value: vertical center of the board
+    x: 75000, // Default value: horizontal center of the board
+    y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1571,9 +1571,9 @@ async function addSticky12() {
 
   const image009 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 5500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1583,9 +1583,9 @@ async function addSticky12() {
 
   const image010 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 5500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1595,9 +1595,9 @@ async function addSticky12() {
 
   const image0063 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 11000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 12000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1607,9 +1607,9 @@ async function addSticky12() {
 
   const image0073 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 11000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 12000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1619,9 +1619,9 @@ async function addSticky12() {
 
   const image0083 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 11000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 12000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1631,9 +1631,9 @@ async function addSticky12() {
 
   const image0093 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 11000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 12000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1643,9 +1643,9 @@ async function addSticky12() {
 
   const image0103 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 11000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 12000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1655,9 +1655,9 @@ async function addSticky12() {
 
   const image0064 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 16500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 17500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1667,9 +1667,9 @@ async function addSticky12() {
 
   const image0074 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 16500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 17500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1679,9 +1679,9 @@ async function addSticky12() {
 
   const image0084 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 16500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 17500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1691,9 +1691,9 @@ async function addSticky12() {
 
   const image0094 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 16500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 17500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1703,9 +1703,9 @@ async function addSticky12() {
 
   const image0104 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 16500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 17500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1715,9 +1715,9 @@ async function addSticky12() {
 
   const image0065 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 22000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 23000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1727,9 +1727,9 @@ async function addSticky12() {
 
   const image0075 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 22000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 23000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1739,9 +1739,9 @@ async function addSticky12() {
 
   const image0085 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 22000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 23000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1751,9 +1751,9 @@ async function addSticky12() {
 
   const image0095 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 22000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 23000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1763,9 +1763,9 @@ async function addSticky12() {
 
   const image0105 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 22000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 23000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1775,9 +1775,9 @@ async function addSticky12() {
 
   const image0066 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 27500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 28500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1787,9 +1787,9 @@ async function addSticky12() {
 
   const image0076 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 27500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 28500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1799,9 +1799,9 @@ async function addSticky12() {
 
   const image0086 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 27500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 28500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1811,9 +1811,9 @@ async function addSticky12() {
 
   const image0096 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 27500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 28500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1823,9 +1823,9 @@ async function addSticky12() {
 
   const image0106 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 27500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 28500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1835,9 +1835,9 @@ async function addSticky12() {
 
   const image0067 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 33000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 34000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1847,9 +1847,9 @@ async function addSticky12() {
 
   const image0077 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 33000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 34000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1859,9 +1859,9 @@ async function addSticky12() {
 
   const image0087 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 33000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 34000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1872,8 +1872,8 @@ async function addSticky12() {
   const image0097 = await miro.board.createImage({
     title: 'This is an image',
     url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 33000, // Default value: vertical center of the board
+    x: 80000, // Default value: horizontal center of the board
+    y: 34000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1883,9 +1883,9 @@ async function addSticky12() {
 
   const image0107 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 33000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 34000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1896,8 +1896,8 @@ async function addSticky12() {
   const image0068 = await miro.board.createImage({
     title: 'This is an image',
     url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 38500, // Default value: vertical center of the board
+    x: 65000, // Default value: horizontal center of the board
+    y: 39500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1907,9 +1907,9 @@ async function addSticky12() {
 
   const image0078 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 38500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 39500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1919,9 +1919,9 @@ async function addSticky12() {
 
   const image0088 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 38500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 39500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1931,9 +1931,9 @@ async function addSticky12() {
 
   const image0098 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 38500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 39500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1943,9 +1943,9 @@ async function addSticky12() {
 
   const image0108 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 38500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 39500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1955,9 +1955,9 @@ async function addSticky12() {
 
   const image0069 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 44000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 45000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1967,9 +1967,9 @@ async function addSticky12() {
 
   const image0079 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 44000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 45000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1979,9 +1979,9 @@ async function addSticky12() {
 
   const image0089 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 44000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 45000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -1991,9 +1991,9 @@ async function addSticky12() {
 
   const image0099 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 44000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 45000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2003,9 +2003,9 @@ async function addSticky12() {
 
   const image0109 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 44000, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 45000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2015,9 +2015,9 @@ async function addSticky12() {
 
   const image00610 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-    x: 74000, // Default value: horizontal center of the board
-    y: 49500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    x: 65000, // Default value: horizontal center of the board
+    y: 50500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2027,9 +2027,9 @@ async function addSticky12() {
 
   const image00710 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-    x: 79000, // Default value: horizontal center of the board
-    y: 49500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+    x: 70000, // Default value: horizontal center of the board
+    y: 50500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2039,9 +2039,9 @@ async function addSticky12() {
 
   const image00810 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-    x: 84000, // Default value: horizontal center of the board
-    y: 49500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+    x: 75000, // Default value: horizontal center of the board
+    y: 50500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2051,9 +2051,9 @@ async function addSticky12() {
 
   const image00910 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-    x: 89000, // Default value: horizontal center of the board
-    y: 49500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+    x: 80000, // Default value: horizontal center of the board
+    y: 50500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2063,9 +2063,9 @@ async function addSticky12() {
 
   const image01010 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-    x: 94000, // Default value: horizontal center of the board
-    y: 49500, // Default value: vertical center of the board
+    url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+    x: 85000, // Default value: horizontal center of the board
+    y: 50500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
     rotation: 0.0,
   });
@@ -2866,9 +2866,9 @@ async function addSticky13() {
   
     const image001 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/de/1b/30/de1b30147f51f7f0a397762eb9038b4b.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 0, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/44/f8/f6/44f8f631e139b27c2450e941b094cd03.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 1000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2878,9 +2878,9 @@ async function addSticky13() {
   
     const image002 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/a7/68/99/a768998ca4fc5152f26bd817b326ebc8.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 0, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/bc/1b/7bbc1bdb14be7f9501716129375ee86a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 1000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2890,9 +2890,9 @@ async function addSticky13() {
   
     const image003 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/dc/75/ef/dc75efb852463c1238068b0c48caacd7.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 0, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/46/38/83/463883dc1c289964949420671bfffdca.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 1000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2902,9 +2902,9 @@ async function addSticky13() {
   
     const image004 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/eb/48/46/eb48469cb10f8e38593e3c5f928f89ef.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 0, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/fc/0e/df/fc0edf660e9a80347238bec1d7827d9d.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 1000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2914,9 +2914,9 @@ async function addSticky13() {
   
     const image005 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/3f/16/5b/3f165b34e33c93354a03940a4778d4d7.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 0, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/38/4e/4e/384e4efe1f3075cb40f1dca978c3f632.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 1000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2926,9 +2926,9 @@ async function addSticky13() {
   
     const image006 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 5500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 6500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2938,9 +2938,9 @@ async function addSticky13() {
   
     const image007 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 5500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 6500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2950,9 +2950,9 @@ async function addSticky13() {
   
     const image008 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 5500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 6500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2962,9 +2962,9 @@ async function addSticky13() {
   
     const image009 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 5500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 6500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2974,9 +2974,9 @@ async function addSticky13() {
   
     const image010 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 5500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 6500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2986,9 +2986,9 @@ async function addSticky13() {
   
     const image0063 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 11000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 12000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -2998,9 +2998,9 @@ async function addSticky13() {
   
     const image0073 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 11000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 12000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3010,9 +3010,9 @@ async function addSticky13() {
   
     const image0083 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 11000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 12000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3022,9 +3022,9 @@ async function addSticky13() {
   
     const image0093 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 11000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 12000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3034,9 +3034,9 @@ async function addSticky13() {
   
     const image0103 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 11000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 12000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3046,9 +3046,9 @@ async function addSticky13() {
   
     const image0064 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 16500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 17500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3058,9 +3058,9 @@ async function addSticky13() {
   
     const image0074 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 16500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 17500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3070,9 +3070,9 @@ async function addSticky13() {
   
     const image0084 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 16500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 17500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3082,9 +3082,9 @@ async function addSticky13() {
   
     const image0094 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 16500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 17500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3094,9 +3094,9 @@ async function addSticky13() {
   
     const image0104 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 16500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 17500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3106,9 +3106,9 @@ async function addSticky13() {
   
     const image0065 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 22000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 23000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3118,9 +3118,9 @@ async function addSticky13() {
   
     const image0075 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 22000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 23000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3130,9 +3130,9 @@ async function addSticky13() {
   
     const image0085 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 22000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 23000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3142,9 +3142,9 @@ async function addSticky13() {
   
     const image0095 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 22000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 23000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3154,9 +3154,9 @@ async function addSticky13() {
   
     const image0105 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 22000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 23000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3166,9 +3166,9 @@ async function addSticky13() {
   
     const image0066 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 27500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 28500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3178,9 +3178,9 @@ async function addSticky13() {
   
     const image0076 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 27500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 28500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3190,9 +3190,9 @@ async function addSticky13() {
   
     const image0086 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 27500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 28500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3202,9 +3202,9 @@ async function addSticky13() {
   
     const image0096 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 27500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 28500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3214,9 +3214,9 @@ async function addSticky13() {
   
     const image0106 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 27500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 28500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3226,9 +3226,9 @@ async function addSticky13() {
   
     const image0067 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 33000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 34000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3238,9 +3238,9 @@ async function addSticky13() {
   
     const image0077 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 33000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 34000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3250,9 +3250,9 @@ async function addSticky13() {
   
     const image0087 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 33000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 34000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3262,9 +3262,9 @@ async function addSticky13() {
   
     const image0097 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 33000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 34000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3274,9 +3274,9 @@ async function addSticky13() {
   
     const image0107 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 33000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 34000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3286,9 +3286,9 @@ async function addSticky13() {
   
     const image0068 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 38500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 39500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3298,9 +3298,9 @@ async function addSticky13() {
   
     const image0078 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 38500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 39500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3310,9 +3310,9 @@ async function addSticky13() {
   
     const image0088 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 38500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 39500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3322,9 +3322,9 @@ async function addSticky13() {
   
     const image0098 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 38500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 39500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3334,9 +3334,9 @@ async function addSticky13() {
   
     const image0108 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 38500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 39500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3346,9 +3346,9 @@ async function addSticky13() {
   
     const image0069 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 44000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 45000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3358,9 +3358,9 @@ async function addSticky13() {
   
     const image0079 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 44000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 45000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3370,9 +3370,9 @@ async function addSticky13() {
   
     const image0089 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 44000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 45000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3382,9 +3382,9 @@ async function addSticky13() {
   
     const image0099 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 44000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 45000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3394,9 +3394,9 @@ async function addSticky13() {
   
     const image0109 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 44000, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 45000, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3406,9 +3406,9 @@ async function addSticky13() {
   
     const image00610 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
-      x: 124000, // Default value: horizontal center of the board
-      y: 49500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+      x: 115000, // Default value: horizontal center of the board
+      y: 50500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3418,9 +3418,9 @@ async function addSticky13() {
   
     const image00710 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/e1/d2/94/e1d294cbde5cdf5d377d3e87ee686e1b.jpg',
-      x: 129000, // Default value: horizontal center of the board
-      y: 49500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/25/a2/c4/25a2c4cc49002512efa18e917e07dd9a.jpg',
+      x: 120000, // Default value: horizontal center of the board
+      y: 50500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3430,9 +3430,9 @@ async function addSticky13() {
   
     const image00810 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
-      x: 134000, // Default value: horizontal center of the board
-      y: 49500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
+      x: 125000, // Default value: horizontal center of the board
+      y: 50500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3442,9 +3442,9 @@ async function addSticky13() {
   
     const image00910 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
-      x: 139000, // Default value: horizontal center of the board
-      y: 49500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
+      x: 130000, // Default value: horizontal center of the board
+      y: 50500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
@@ -3454,9 +3454,9 @@ async function addSticky13() {
   
     const image01010 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/15/b8/c1/15b8c1d0c99c18abc25cb9977d69f345.jpg',
-      x: 144000, // Default value: horizontal center of the board
-      y: 49500, // Default value: vertical center of the board
+      url: 'https://i.pinimg.com/474x/7b/54/28/7b542836f79d9c9152fae5d4957254b5.jpg',
+      x: 135000, // Default value: horizontal center of the board
+      y: 50500, // Default value: vertical center of the board
       width: 5000, // Set either 'width', or 'height'
       rotation: 0.0,
     });
