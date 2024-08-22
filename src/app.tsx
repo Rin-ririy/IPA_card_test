@@ -1523,7 +1523,7 @@ async function addSticky12() {
 
   const image005 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
+    url: 'https://i.pinimg.com/474x/38/4e/4e/384e4efe1f3075cb40f1dca978c3f632.jpg',
     x: 85000, // Default value: horizontal center of the board
     y: 1000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
@@ -1535,7 +1535,7 @@ async function addSticky12() {
 
   const image006 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
     x: 65000, // Default value: horizontal center of the board
     y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
@@ -1559,7 +1559,7 @@ async function addSticky12() {
 
   const image008 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/4b/e6/02/4be602725796ae6acd252c5194985d66.jpg',
+    url: 'https://i.pinimg.com/474x/bc/53/51/bc535189d263dce5e8f29d05497e050d.jpg',
     x: 75000, // Default value: horizontal center of the board
     y: 6500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
@@ -1871,7 +1871,7 @@ async function addSticky12() {
 
   const image0097 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/57/f2/ef/57f2efa1bf872add23f4ab979a14558f.jpg',
+    url: 'https://i.pinimg.com/474x/6d/70/60/6d70601452887fc70db4fcdce6f2f87b.jpg',
     x: 80000, // Default value: horizontal center of the board
     y: 34000, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
@@ -1895,7 +1895,7 @@ async function addSticky12() {
 
   const image0068 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/88/12/39/8812396b96303867b0f87f7897c0050c.jpg',
+    url: 'https://i.pinimg.com/474x/26/fc/90/26fc90cca1ebcd58cadb17741392ffbc.jpg',
     x: 65000, // Default value: horizontal center of the board
     y: 39500, // Default value: vertical center of the board
     width: 5000, // Set either 'width', or 'height'
