@@ -729,7 +729,7 @@ async function addSticky1() {
 
   const image7 = await miro.board.createImage({
     title: 'This is an image',
-    url: 'https://i.pinimg.com/474x/a7/85/83/a785836b6dcf7b26754c17230bd51908.jpg',
+    url: 'https://i.pinimg.com/474x/99/9d/02/999d02162eefa638b0eaec62e71f562b.jpg',
     x: 0, // Default value: horizontal center of the board
     y: 3900, // Default value: vertical center of the board
     width: 800, // Set either 'width', or 'height'
@@ -3538,7 +3538,7 @@ async function addSticky13() {
   
     const image7 = await miro.board.createImage({
       title: 'This is an image',
-      url: 'https://i.pinimg.com/474x/a7/85/83/a785836b6dcf7b26754c17230bd51908.jpg',
+      url: 'https://i.pinimg.com/474x/99/9d/02/999d02162eefa638b0eaec62e71f562b.jpg',
       x: 100000, // Default value: horizontal center of the board
       y: 3900, // Default value: vertical center of the board
       width: 800, // Set either 'width', or 'height'
